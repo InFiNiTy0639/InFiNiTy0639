@@ -1,4 +1,4 @@
-## Hi there 👋 I am MARQ
+## Hi there 👋 I am Aadil Rizwan
 <p align="justify">
 welcome to my GitHub Page. I am MARQ 2nd Yr Undergraduate Student
 </p>
