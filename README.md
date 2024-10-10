@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Aadil Rizwan
 <p align="justify">
-welcome to my GitHub Page. I am MARQ 2nd Yr Undergraduate Student
+welcome to my GitHub Page. I am 2nd Yr UG Student
 </p>
 
 ## My favorite tools and technologies ⚙️
