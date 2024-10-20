@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Aadil Rizwan
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="ConVrgE63" />
 </h1>
 <p align="justify">
 welcome to my GitHub Page. I am 2nd Yr UG Student
