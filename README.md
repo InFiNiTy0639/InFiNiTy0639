@@ -81,14 +81,12 @@ welcome to my GitHub Page. I am 2nd Yr UG Student
         <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="ts" />
       <br>Typescript
     </td>
-      </tr>
-  <tr>
-         </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="expressjs" />
       <br>Express.js
     </td>
-         </td>
+      </tr>
+  <tr>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
       <br>MongoDB
@@ -114,8 +112,6 @@ welcome to my GitHub Page. I am 2nd Yr UG Student
        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
       <br>React
     </td>
- </tr>
-  <tr>
                 <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
       <br>Vs code
