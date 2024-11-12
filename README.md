@@ -99,6 +99,22 @@ welcome to my GitHub Page. I am 2nd Yr UG Student
         <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="dart" />
       <br>Prisma
     </td>
+          <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="dart" />
+      <br>Redux
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="dart" />
+      <br>Npm
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="dart" />
+      <br>Bun
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=socketio" width="48" height="48" alt="dart" />
+      <br>Socket.io
+    </td>
  </tr>
 </table>
 
