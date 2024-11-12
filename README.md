@@ -112,7 +112,7 @@ welcome to my GitHub Page. I am 2nd Yr UG Student
       <br>Bun
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=socketio" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=socket.io" width="48" height="48" alt="dart" />
       <br>Socket.io
     </td>
  </tr>
