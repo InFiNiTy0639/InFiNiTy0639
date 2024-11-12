@@ -120,6 +120,10 @@ welcome to my GitHub Page. I am 2nd Yr UG Student
        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
       <br>Flask
     </td>
+      <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="flask" />
+      <br>Solidity
+    </td>
   </tr>
 </table>
 
