@@ -43,12 +43,12 @@ welcome to my GitHub Page. I am 2nd Yr UG Student
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
+  </tr>
+  <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
@@ -77,13 +77,12 @@ welcome to my GitHub Page. I am 2nd Yr UG Student
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
       <br>Next.js
     </td>
-  </tr>
- <tr>
-       </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="ts" />
       <br>Typescript
     </td>
+      </tr>
+  <tr>
          </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="expressjs" />
