@@ -73,6 +73,10 @@ welcome to my GitHub Page. I am 2nd Yr UG Student
         <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
       <br>sentry
     </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="dart" />
+      <br>sentry
+    </td>
   </tr>
  <tr>
  </tr>
