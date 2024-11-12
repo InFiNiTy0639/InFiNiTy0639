@@ -65,8 +65,6 @@ welcome to my GitHub Page. I am 2nd Yr UG Student
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
-  </tr>
-   <tr>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
