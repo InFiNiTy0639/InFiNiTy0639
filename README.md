@@ -1,4 +1,4 @@
-## Hi there 👋 I am Aadil Rizwan
+## Hi there 👋 I am MA Rizwan
 <p align="justify">
 welcome to my GitHub Page. I am 2nd Yr UG Student
 </p>
@@ -62,7 +62,7 @@ welcome to my GitHub Page. I am 2nd Yr UG Student
       <br>JQuery
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgresql" />
       <br>PostgreSQL
     </td>
         <td align="center" width="96">
@@ -70,52 +70,62 @@ welcome to my GitHub Page. I am 2nd Yr UG Student
       <br>Postman
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="sentry" />
       <br>sentry
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
       <br>Next.js
     </td>
   </tr>
  <tr>
        </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="ts" />
       <br>Typescript
     </td>
          </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="expressjs" />
       <br>Express.js
     </td>
          </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
       <br>MongoDB
     </td>
          </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
       <br>Prisma
     </td>
           <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" />
       <br>Redux
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
       <br>Npm
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="bun" />
       <br>Bun
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=socket.io" width="48" height="48" alt="dart" />
-      <br>Socket.io
+       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
+      <br>React
     </td>
  </tr>
+  <tr>
+                <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
+      <br>Vs code
+    </td>
+                    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
+      <br>Flask
+    </td>
+  </tr>
 </table>
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
