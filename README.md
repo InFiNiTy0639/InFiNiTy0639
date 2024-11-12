@@ -9,27 +9,27 @@ welcome to my GitHub Page. I am 2nd Yr UG Student
 
 <table>
   <tr>
+           <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
     </td>
       <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="pytorch" />
@@ -113,6 +113,10 @@ welcome to my GitHub Page. I am 2nd Yr UG Student
       <br>React
     </td>
                 <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="node" />
+      <br>Node.js
+    </td>
+   <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
       <br>Vs code
     </td>
@@ -120,9 +124,19 @@ welcome to my GitHub Page. I am 2nd Yr UG Student
        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
       <br>Flask
     </td>
-      <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="flask" />
+</tr>
+  <tr>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="solidity" />
       <br>Solidity
+    </td>
+                <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
+      <br>Firebase
+    </td>
+                <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=googlecloud" width="48" height="48" alt="react" />
+      <br> Gcloud
     </td>
   </tr>
 </table>
