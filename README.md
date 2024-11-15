@@ -1,4 +1,4 @@
-## Hi there 👋 I am MA Rizwan
+## Hi there 👋 
 <p align="justify">
 welcome to my GitHub Page. I am 2nd Yr UG Student
 </p>
