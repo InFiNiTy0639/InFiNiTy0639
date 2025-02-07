@@ -138,6 +138,10 @@ welcome to my GitHub Page. I am 2nd Yr UG Student
        <img src="https://skillicons.dev/icons?i=googlecloud" width="48" height="48" alt="react" />
       <br> Gcloud
     </td>
+        <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="react" />
+      <br> FastApi
+    </td>
   </tr>
 </table>
 
