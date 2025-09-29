@@ -1,6 +1,6 @@
 ## Hi there 👋 
 <p align="justify">
-welcome to my GitHub Page. I am 2nd Yr UG Student
+welcome to my GitHub Page. I am 3rd Yr UG Student
 </p>
 
 ## My favorite tools and technologies ⚙️
