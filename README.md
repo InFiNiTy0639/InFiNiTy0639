@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm MA RIZWAN! 🧑‍💻
 
-**Full-Stack Developer | Machine Learning Researcher | Competitive Programmer**
+**Full-Stack Developer | ML Researcher | Competitive Programmer**
 
 I am a passionate Full Stack Developer and researcher dedicated to pushing the boundaries of **Machine Learning** and **High-Performance Computing**. I thrive on solving complex algorithmic challenges and building scalable, production-grade full-stack applications.
 
@@ -11,11 +11,11 @@ I am a passionate Full Stack Developer and researcher dedicated to pushing the b
 I love the thrill of the **"Accepted"** verdict. My competitive programming journey includes:
 
 - **Codeforces**: Expert 
-- **CodeChef**: 5-Star Coder
+- **CodeChef**: 5-Star
 - **LeetCode**: Knight
 - **Meta Hacker Cup**:
   - Qualified for Round 1  
-  - Global Rank < **1500** in Round 2
+  - Global Rank < **1300** in Round 2
 
 ---
 
