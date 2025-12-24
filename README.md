@@ -1,7 +1,62 @@
-## Hi there 👋 
-<p align="justify">
-welcome to my GitHub Page. I am 3rd Yr UG Student
-</p>
+# Hi there 👋 , I'm MA RIZWAN! 🧑‍💻
+
+**Full-Stack Developer | Machine Learning Researcher | Competitive Programmer**
+
+I am a passionate Full Stack Developer and researcher dedicated to pushing the boundaries of **Machine Learning** and **High-Performance Computing**. I thrive on solving complex algorithmic challenges and building scalable, production-grade full-stack applications.
+
+---
+
+## 🏆 Competitive Programming Achievements
+
+I love the thrill of the **"Accepted"** verdict. My competitive programming journey includes:
+
+- **Codeforces**: Expert 
+- **CodeChef**: 5-Star Coder
+- **LeetCode**: Knight
+- **Meta Hacker Cup**:
+  - Qualified for Round 1  
+  - Global Rank < **1500** in Round 2
+
+---
+
+## 🔬 Machine Learning & Research
+
+My primary research focus lies at the intersection of **Vision, Language, and Reasoning**. I study how multimodal models interpret—and fail to interpret—the real world.
+
+### 📌 Featured Research
+
+**Title**  
+*The Multimodal Commonsense Gap: A Comprehensive Analysis of Benchmarks, Methodologies, and Failure Modes in Multimodal Large Language Models*
+
+**Focus**  
+An in-depth investigation into discrepancies between MLLM performance and human-level commonsense reasoning, highlighting critical failure modes in state-of-the-art multimodal architectures.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Domain | Technologies |
+|------|-------------|
+| **Languages** | C++, Python, JavaScript, TypeScript, SQL |
+| **ML / Data Science** | PyTorch, TensorFlow, HuggingFace, Scikit-learn, Pandas |
+| **Full-Stack** | React.js, Node.js, Next.js, Express, PostgreSQL, MongoDB |
+| **DevOps / Tools** | Docker, Git, Linux, AWS |
+
+---
+
+## 🌟 What I’m Up To
+
+- 🔭 **Currently working on**: Enhancing the reasoning capabilities of Large Multimodal Models (LMMs)
+- 🌱 **Learning**: Machine learning research, scalable web systems, and evolving software tools and technologies.
+- 💬 **Ask me about**:  
+  Competitive Programming strategies, MLLM research, or building scalable React/Node.js applications
+
+---
+
+
+⭐ If you find my work interesting, feel free to star my repositories and connect!
+
+---
 
 ## My favorite tools and technologies ⚙️
 
