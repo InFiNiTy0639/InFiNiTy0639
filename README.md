@@ -174,7 +174,6 @@ I love the thrill of the **"Accepted"** verdict. My competitive programming jour
   </tr>
 </table>
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 <!--
 **marqcoder/marqcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
