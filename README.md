@@ -22,12 +22,22 @@ I love the thrill of the **"Accepted"** verdict. My competitive programming jour
 ## 🌟 What I’m Up To
 
 - 🔭 **Currently working on**: Enhancing the reasoning capabilities of Large Multimodal Models (LMMs)
-- 🌱 **Learning**: Machine learning research, scalable web systems, and evolving software tools and technologies.
-- 💬 **Ask me about**:  
-  Competitive Programming strategies, MLLM research, or building scalable React/Node.js applications
+- 🌱 **Learning**: Machine learning research, scalable web systems, System Design and evolving software tools and technologies.
 
 ---
+## 🤝 Connect With Me
 
+<p align="left">
+  <a href="https://in.linkedin.com/in/ma-rizwan-61a000284" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:marizwan639@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 ⭐ If you find my work interesting, feel free to star my repositories and connect!
 
 ---
