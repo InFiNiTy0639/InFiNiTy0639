@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 , I'm MA RIZWAN!  🧑‍💻</h1>
+<h1 align="center">Hi 👋 , I'm MA RIZWAN! </h1>
 
 **Full-Stack Developer | ML Researcher | Competitive Programmer**
 
