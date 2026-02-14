@@ -12,11 +12,6 @@ I love the thrill of the **"Accepted"** verdict. My competitive programming jour
 
 - **Codeforces**: Expert 
 - **CodeChef**: 5-Star
-- **LeetCode**: Knight
-- **Meta Hacker Cup**:
-  - Round 1: Global Rank - 781  
-  - Round 2: Global Rank - 1271
-
 ---
 
 ## 🌟 What I’m Up To
