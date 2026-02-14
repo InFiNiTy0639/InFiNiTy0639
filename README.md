@@ -184,9 +184,6 @@ I love the thrill of the **"Accepted"** verdict. My competitive programming jour
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InFiNiTy0639&theme=react-dark&bg_color=0f172a&color=38bdf8&line=3b82f6&point=22d3ee&area=true&area_color=1e3a8a&hide_border=true" />
-</div>
 
 
 
