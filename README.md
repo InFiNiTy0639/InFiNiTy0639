@@ -174,13 +174,13 @@ I love the thrill of the **"Accepted"** verdict. My competitive programming jour
        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
       <br>Flask
     </td>
-</tr>
-  <tr>
-    <td align="center" width="96">
+      <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="solidity" />
       <br>Solidity
     </td>
-                <td align="center" width="96">
+</tr>
+  <tr>
+  <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
       <br>Firebase
     </td>
