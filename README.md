@@ -78,6 +78,13 @@ I love the thrill of the **"Accepted"** verdict. My competitive programming jour
        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="pytorch" />
       <br>Pytorch
     </td>
+    <td width="96" style="text-align:center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+       width="65"
+       height="65"
+       alt="TensorFlow" />
+  <br>TensorFlow
+</td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
