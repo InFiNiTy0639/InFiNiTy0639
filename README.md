@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | ML Researcher | Competitive Programmer**
 
-I am a passionate Full Stack Developer and researcher dedicated to pushing the boundaries of **Machine Learning** and **High-Performance Computing**. I thrive on solving complex algorithmic challenges and building scalable, production-grade full-stack applications.
+I am a third-year undergraduate student and a passionate full-stack developer and researcher focused on advancing Machine Learning and High-Performance Computing. I enjoy solving complex algorithmic problems and building scalable, production-grade full-stack applications.
 
 ---
 
@@ -60,6 +60,15 @@ I love the thrill of the **"Accepted"** verdict. My competitive programming jour
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
+    <td width="96" style="text-align: center;">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
+             alt="Ruby"
+             width="60"
+             height="60" />
+      </a>
+      <br/>
+      Ruby
     </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
