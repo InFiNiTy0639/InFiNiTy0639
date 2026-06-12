@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | ML Researcher | Competitive Programmer**
 
-I am a third-year undergraduate student and a passionate full-stack developer and researcher focused on advancing Machine Learning and High-Performance Computing. I enjoy solving complex algorithmic problems and building scalable, production-grade full-stack applications.
+I am a Final-year undergraduate student and a passionate full-stack developer and researcher focused on advancing Machine Learning and High-Performance Computing. I enjoy solving complex algorithmic problems and building scalable, production-grade full-stack applications.
 
 ---
 
