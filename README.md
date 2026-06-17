@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | ML Researcher | Competitive Programmer**
 
-I am a Final-year undergraduate student and a passionate full-stack developer and researcher focused on advancing Machine Learning and High-Performance Computing. I enjoy solving complex algorithmic problems and building scalable, production-grade full-stack applications.
+I am a Final-year B.Tech undergraduate at NIT Allahabad, India  and a passionate full-stack developer and researcher focused on advancing Machine Learning and High-Performance Computing. I enjoy solving complex algorithmic problems and building scalable, production-grade full-stack applications.
 
 ---
 
@@ -10,8 +10,8 @@ I am a Final-year undergraduate student and a passionate full-stack developer an
 
 I love the thrill of the **"Accepted"** verdict. My competitive programming journey includes:
 
-- **Codeforces**: Expert 
-- **CodeChef**: 5-Star
+- **Codeforces**: Expert (1747) 
+- **CodeChef**: 5-Star(2156)
 ---
 
 ## 🌟 What I’m Up To
