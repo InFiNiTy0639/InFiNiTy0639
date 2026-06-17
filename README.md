@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 , I'm MA RIZWAN! </h1>
 
-**Full-Stack Developer | ML Researcher | Competitive Programmer**
+** Competitive Programmer | Full-Stack AI Developer **
 
 I am a Final-year B.Tech undergraduate at NIT Allahabad, India  and a passionate full-stack developer and researcher focused on advancing Machine Learning and High-Performance Computing. I enjoy solving complex algorithmic problems and building scalable, production-grade full-stack applications.
 
