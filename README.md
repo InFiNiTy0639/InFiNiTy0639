@@ -2,7 +2,7 @@
 
 **Competitive Programmer | Full-Stack AI Developer**
 
-I am a Final-year B.Tech undergraduate at NIT Allahabad and a passionate full-stack developer and researcher focused on advancing Machine Learning and High-Performance Computing. I enjoy solving complex algorithmic problems and building scalable, production-grade full-stack applications.
+I am a final-year B.Tech undergraduate and a passionate full-stack developer and researcher with a strong interest in Machine Learning and High-Performance Computing. I enjoy solving complex algorithmic problems and building scalable, production-grade full-stack applications.
 
 ---
 
